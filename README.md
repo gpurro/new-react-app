@@ -1,2 +1,7 @@
 # new-react-app
-My own template for web applications using React
+
+This template is based on Vite React/Typescript template and adds the following features:
+
+- ...
+
+
